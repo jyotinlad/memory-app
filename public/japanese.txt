@@ -1,0 +1,21 @@
+Yes
+No
+Hello
+Bye
+Thank You
+Thanks
+Good Morning
+Good Evening
+Good Night
+What’s Your Name
+Nice To Meet You
+How Are You
+I'm Sorry
+See You Later
+Please
+Excuse Me
+Big
+Small
+Toilet
+Water
+Help

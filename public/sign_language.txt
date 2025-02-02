@@ -1,0 +1,165 @@
+Yes
+No
+Maybe
+Please
+Thank You
+Are You Okay
+Hearing
+Deaf
+Good
+Bad
+Better
+Worse
+Brilliant
+Terrible
+Happy
+Sad
+Excited / That's Interesting
+Angry
+Mother
+Father
+Son
+Daughter
+Brother
+Sister
+Family
+Baby
+Boy
+Girl
+Like/Want
+Don’t Like/Don't Want
+Love
+Hate
+Understand
+Don’t Understand
+Help
+Okay
+Home
+Work
+Office
+School
+College
+University
+Learn
+Red
+Blue
+Green
+Brown
+Yellow
+Orange
+Purple
+Pink
+White
+Black
+Gold
+Silver
+Day
+Night
+Morning
+Evening
+Future
+Past
+Now
+Tomorrow
+Yesterday
+Week
+Weekend
+Next Week
+Last Week
+Car
+Drive
+Bicycle
+Bus
+Train
+Walk
+Run
+Shop
+Cheap
+Expensive
+Coffee
+Tea
+Hot Chocolate
+Sugar
+Milk
+Water
+Sweet
+Cake
+Biscuit
+Who
+Which
+When
+Where
+Why
+How
+How Many
+How Long
+Easy
+Hard
+Goodbye
+Book
+Movie
+Camera
+Photo
+Money
+Flirt
+Naughty
+Cat
+Accident
+Dangerous
+Risky
+Nice
+Horrible
+Fire
+Wine
+Cheese
+Chocolate
+Fat
+Thin
+Confident
+Stress
+Suspicious
+Sleep
+Wake Up
+Must
+Busy (Lots To Do)
+Busy (Crowded)
+Fast
+Slow
+Confused
+Adult
+Child
+Aeroplane
+America
+All Gone
+Ask
+Apple
+Awake
+All
+Big
+Beautiful
+Bird
+Ball
+Birthday
+Careful
+Carry On
+Chair
+Castle
+Celebrate
+Carrot
+Dinner
+Doctor
+Dream
+Door
+Duck
+Donkey
+Elephant
+Dirty
+England
+Electric
+Every
+Explain
+What
+Sorry
+Again
+Let Me Know
+Take My Time
